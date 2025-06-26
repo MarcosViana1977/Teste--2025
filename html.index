@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplos de Editores de Texto WYSIWYG</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h2 {
+            color: #333;
+        }
+        ol {
+            list-style-type: decimal;
+            max-width: 600px;
+            margin: 0 auto;
+            padding-left: 20px;
+        }
+        li {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplos de editores de texto WYSIWYG</h1>
+    <p>São editores que permitem que você veja como o código aparece em uma página web em tempo real. Para os iniciantes, os editores WYSIWYG são altamente recomendados, pois não é necessário ter experiência em codificação.</p>
+
+    <h2>Alguns Editores WYSIWYG populares:</h2>
+    <ol>
+        <li>Atom</li>
+        <li>Sublime Text</li>
+        <li>Notepad++</li>
+        <li>Brackets</li>
+    </ol>
+</body>
+</html>
